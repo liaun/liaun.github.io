@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title></title>
+      <url>http://liaun.github.io/2016/10/04/asdsaasd/</url>
+      <content type="html"><![CDATA[<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>制作我的第一个网页</title>
+    </head>
+    <body>
+        <h1>  skdlasjdlak</h1>
+    </body>
+</html>]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[自由与文明-香港]]></title>
+      <url>http://liaun.github.io/2016/10/03/ziyou/</url>
+      <content type="html"><![CDATA[<h2 id="自由与文明"><a href="#自由与文明" class="headerlink" title="自由与文明"></a>自由与文明</h2><p> 五天自助游，这是香港给我的最大的感受。</p>
+<h3 id="自由"><a href="#自由" class="headerlink" title="自由"></a>自由</h3><p>香港是一个自由港，绝大多数的货品没有关税，世界各地物资都运来竞销，这也香港被称为购物天堂的原因。</p>
+<p>比贸易自由更重要的思想自由，香港的街道上经常会看到各种条幅，比如，反对香港大陆化，甚至是##功都是街上公开传教，到处都有免费的报纸，宣传各种政治主张等等。</p>
+<p>七月正好的香港每年书展的时间，我们正好是偶然路过，就去游览一番，里面人山人海。</p>
+<p><img src="http://imglf0.ph.126.net/fMWKoMiuZCKtuJtfRNRM5g==/6597970266681352956.jpg" alt="香港书展"></p>
+<p>在这里更能体现香港的思想自由，能看到好多内地的禁书，尤其将是关于政治的。我买了一本钟道然写的《我不原谅中国教育》，出关的时候还被海关查了很久，最后他还是把书给我了。里面有些内容确实写得特别XX，有时间我整理几篇给大家推送一下。</p>
+<p>对了，书展还能看到很多知名作家现场签名售书。</p>
+<p> 香港的自由体现在更多的方面。政府大楼那边经常会看到香港人的游行，抗议什么的活动，香港的电影院可以放三级片。进场需要出示年龄证明，作为屌丝一枚，我怎能错过，嘿嘿。</p>
+<p> 香港有很多定居的外国人，为什么要住在香港，因为生活在这里更加自由。</p>
+<h3 id="文明"><a href="#文明" class="headerlink" title="文明"></a>文明</h3><p> 从公共场所的卫生说起吧，随地吐痰，乱丢垃圾，在香港是看不到，可能罚款罚得太狠了吧。主要还是人们已经养成习惯了。</p>
+<p> 香港的室内都是禁止吸烟的，包括宾馆。还有一些公园。马路上经常看到一群人围在一个垃圾桶旁边抽烟，比如在海洋公园有专门的吸烟区，好多人坐在里面吸烟。香港的好多房间里都装有烟雾报警器，发现抽烟可以最高罚款5000港币。</p>
+ <a id="more"></a>
+<p>更多细节….</p>
+<p> 乘坐电梯的时候都是靠右站，左边要让给赶路的人。</p>
+<p> 等公交都会排队，那天我们看完电影半夜2点多了，还看到马路旁边人们在排队等公交，对了，说到晚上，美女很多，有点《喜爱夜蒲》的感觉。继续说等公交的事情，我从香港过关刚到深圳做公交，尼玛上车的时候那个挤啊。为什么就隔了一条小河，差别就会这么大。</p>
+<p> 关于排队，几乎只要是人多的地方，干什么都会自觉排队。</p>
+<p> 大家猜猜下面图是什么地方。</p>
+<p><img src="http://imglf0.ph.126.net/ZSEUrvRC1FpX9JwkbTBwAA==/898468125760777578.jpg" alt="小狗拉粑粑"></p>
+<p>对了，你猜对了，小狗都有厕所哎</p>
+<p>香港人普遍确实比较有素质，但是也不能说咱们没有素质，因为生活的环境不同。很多习惯改变起来真的很难。</p>
+<p>就到这里吧。其他方面略了。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[学习NodeJS的笔记]]></title>
+      <url>http://liaun.github.io/2016/02/19/learming-nodejs/</url>
+      <content type="html"><![CDATA[<h2 id="关于nodeJS"><a href="#关于nodeJS" class="headerlink" title="关于nodeJS"></a>关于nodeJS</h2><h3 id="nodeJS的诞生"><a href="#nodeJS的诞生" class="headerlink" title="nodeJS的诞生"></a>nodeJS的诞生</h3><p>2008年<br>Ryan Dahl的目标：创建一个易扩展/适用于现代Web应用通信的服务器平台。</p>
+<p>认识Ryan Dahl<br><img src="http://htmljs.b0.upaiyun.com/uploads/1398391371178-0%20%282%29.jpg" alt="Ryan Dahl"><br><a id="more"></a><br>国内外的应用：Linkedin Paypal Twitter 知乎 网易 阿里 Uber </p>
+<h3 id="nodeJS与JavaScript"><a href="#nodeJS与JavaScript" class="headerlink" title="nodeJS与JavaScript"></a>nodeJS与JavaScript</h3><p>1995年，javaScript诞生：Branden Eich,10天时间<br><img src="http://f.hiphotos.baidu.com/baike/w%3D268/sign=0b0c7163fffaaf5184e386b9b45594ed/838ba61ea8d3fd1f84237b7f324e251f95ca5f49.jpg" alt="Branden Eich"></p>
+<p>JavaScript= ECMAScript+DOM+BOM</p>
+<h3 id="nodeJS的特点"><a href="#nodeJS的特点" class="headerlink" title="nodeJS的特点"></a>nodeJS的特点</h3><ul>
+<li>部署简单方便</li>
+<li>事件驱动</li>
+<li>异步编程</li>
+<li>高效与性能</li>
+<li>单线程与多进程</li>
+</ul>
+<p>缺点：</p>
+<ul>
+<li>匿名函数，异常不易阅读</li>
+<li>try/catch 限于同步代码，异步较为复杂</li>
+<li>单线程：可靠性</li>
+<li>不适合CPU密集型的场景</li>
+<li>回调的代码习惯不利阅读</li>
+</ul>
+<h2 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h2><p>安装nondeJS</p>
+<p>VirtualBox : 虚拟机CentOS安装</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[【解决】bootstrap打开modal后页面body内容移动抖动]]></title>
+      <url>http://liaun.github.io/2015/12/02/jiejuedoudong/</url>
+      <content type="html"><![CDATA[<h3 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h3><p>注意看bootstrap的modal，有这么一个样式，当打开的时候，会给body加上modal-open 类，于是y滚动条没了，页面宽度变大，自然元素就移动了。</p>
+<h3 id="解决方案一："><a href="#解决方案一：" class="headerlink" title="解决方案一："></a>解决方案一：</h3><p><a href="http://segmentfault.com/q/1010000000663627" target="_blank" rel="external">http://segmentfault.com/q/1010000000663627</a>  </p>
+<pre><code>.modal-open {
+             overflow: hidden;
+            }
+</code></pre><h3 id="解决方案二："><a href="#解决方案二：" class="headerlink" title="解决方案二："></a>解决方案二：</h3><p><a href="http://jingpin.jikexueyuan.com/article/57027.html" target="_blank" rel="external">http://jingpin.jikexueyuan.com/article/57027.html</a></p>
+<a id="more"></a>
+<h3 id="我是这样搞的"><a href="#我是这样搞的" class="headerlink" title="我是这样搞的"></a>我是这样搞的</h3><p><img src="http://r.photo.store.qq.com/psb?/V137UPNb00y5UR/JPfc4zSZvrSSY*gXBpFXjp5yR8.j0T4eUR0ANBbQRb4!/o/dFoBAAAAAAAA&amp;ek=1&amp;kp=1&amp;pt=0&amp;bo=OAQWATgEFgEDACU!&amp;su=1257608049&amp;sce=0-12-12&amp;rf=2-9" alt="jietu"></p>
+<p> 打开bootstrap的js文件，把我用红色框住的内容改成0！ </p>
+<p>就ok了！</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[大同电商产业园区 APP UI]]></title>
+      <url>http://liaun.github.io/2015/10/11/datongui/</url>
+      <content type="html"><![CDATA[<h2 id="一套简单的App-UI"><a href="#一套简单的App-UI" class="headerlink" title="一套简单的App UI"></a>一套简单的App UI</h2><p>感觉自己设计的很蹩脚  0.0</p>
+<h3 id="Logo-amp-配色-amp-图标"><a href="#Logo-amp-配色-amp-图标" class="headerlink" title="Logo&amp;配色&amp;图标"></a>Logo&amp;配色&amp;图标</h3><p><img src="/images/D1.jpg" alt="1"></p>
+<h3 id="Logo-amp-app-store"><a href="#Logo-amp-app-store" class="headerlink" title="Logo &amp; app store"></a>Logo &amp; app store</h3><p><img src="/images/2.jpg" alt="2"><br><a id="more"></a></p>
+<h3 id="启动页"><a href="#启动页" class="headerlink" title="启动页"></a>启动页</h3><p><img src="/images/3.jpg" alt="3"></p>
+<h3 id="主页"><a href="#主页" class="headerlink" title="主页"></a>主页</h3><p><img src="/images/4.jpg" alt="4"></p>
+<h3 id="内容页"><a href="#内容页" class="headerlink" title="内容页"></a>内容页</h3><p><img src="/images/5.jpg" alt="5"></p>
+<h3 id="其他页面"><a href="#其他页面" class="headerlink" title="其他页面"></a>其他页面</h3><p><img src="/images/6.jpg" alt="6"></p>
+<h3 id="设计理念"><a href="#设计理念" class="headerlink" title="设计理念"></a>设计理念</h3><p><img src="/images/7.jpg" alt="7"></p>
+]]></content>
+    </entry>
+    
+  
+  
+</search>
